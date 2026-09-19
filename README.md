@@ -81,3 +81,10 @@ Abaixo estão prompts modelos configurados para apoiar futuras revisões de cont
 
 3. Quiz de Fixação:
 "Com base no material do caderno, crie 3 perguntas de múltipla escolha sobre [TEMA] com gabarito comentado ao final."
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **[NotebookLM](https://notebooklm.google.com/)**
+- **GitHub & Markdown**
+- **Google AI Prompting Standards**
