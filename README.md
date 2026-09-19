@@ -83,6 +83,6 @@ Abaixo estão prompts modelos configurados para apoiar futuras revisões de cont
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- [**NotebookLM**](https://notebooklm.google.com/)
+- **[NotebookLM](https://notebooklm.google.com/)**
 - **GitHub & Markdown**
 - **Google AI Prompting Standards**
