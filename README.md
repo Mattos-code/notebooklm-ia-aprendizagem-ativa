@@ -24,8 +24,6 @@ As seguintes fontes oficiais foram carregadas no caderno do NotebookLM para form
 1. 🌐 **[Martin Fowler - Software Architecture Guide](https://martinfowler.com/architecture/)**: Conceitos essenciais e definições sobre arquitetura de software moderna.
 2. 🌐 **[12-Factor App Methodology (PT-BR)](https://12factor.net/pt_br/)**: Doze fatores para construção de aplicações prontas para ambiente Cloud/SaaS.
 3. 🌐 **[PEP 8 -- Style Guide for Python Code](https://peps.python.org/pep-0008/)**: Guia oficial de estilo, convenções de código e legibilidade em Python.
-4. 🌐 **[Google AI - Prompting Strategies Guide](https://ai.google.dev/gemini-api/docs/prompting-strategies)**: Boas práticas e estratégias avançadas de engenharia de prompts.
-
 ---
 
 ## 🧪 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
